@@ -1,11 +1,11 @@
 # Site settings
-author: Mike German
-title: 
+author: Dr. Mike German
+title: The MSG Blog
 header-img: img/home-bg.png
 email: migerman1@gmail.com
-copyright_name: Mike German
+copyright_name: Dr. Mike German
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Savory thoughts from an energetic startup founder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: migerman1
 github_username:  migerman1
